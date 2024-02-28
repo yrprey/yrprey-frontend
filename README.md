@@ -1,5 +1,7 @@
 # Yprey
 
+![yprey](https://i.imgur.com/zHoDJG9_d.webp?maxwidth=760&fidelity=grand)
+
 **Backend created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
 
 **Frontend created by [Vagner Mengali](https://www.linkedin.com/in/vagnermengali/)**
@@ -54,14 +56,6 @@ For more details you can use a service like the [swagger editor](https://editor.
 
 ## How to create the environment:
 You can created one local servers:
-
-Backend
-- Linux Ubuntu with PHP and MySQL
-- Give chmod 777 /var/www/html/
-- Give chmod 777 /var/www/html/log/log.php
-- Create database with name yrprey
-- Download the yrprey database file (yrprey.sql) and run it in the MySQL database
-- In the database yrprey, dive: "SET GLOBAL sql_mode = ''"
 
 Frontend
 - Clone the repository to your local environment.
